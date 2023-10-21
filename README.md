@@ -8,6 +8,8 @@ The Model was trained with Tabular Iris Flower Data and with the `SVC` Scikit-Le
 
 ## Check-it out the App Deployed in the Streamlit Services
 
+Iris Flower Classificator App Deployed at: https://iris-flower.streamlit.app/
+
 ## Run it Locally
 
 Test it Locally by running the `app.py` file, built with `Streamlit`, and the `api.py` file with `Flask`. Remember first to run the `api.py` file, copy the http url and saved in the API variable of the `app.py` file, and uncomment the code lines.
